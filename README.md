@@ -4,7 +4,7 @@
 
 ---
 
-[![send feedback](https://upload.cc/i1/2021/11/11/Gv8YzL.png)](https://www.surveycake.com/s/O9x8Q)
+[![send feedback](https://upload.cc/i1/2021/11/11/Gv8YzL.png)](https://www.sk5s.cyou/sk5short-one?r=f)
 
 <!-- 
 - [sk5short desktop](https://www.sk5s.cyou/sk5short-desktop/)
