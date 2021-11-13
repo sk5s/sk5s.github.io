@@ -1,9 +1,7 @@
 # sk5s
-
-[![about me](https://upload.cc/i1/2021/10/18/r8f5hs.png)](https://www.sk5s.cyou/sk5s/)
-
 ---
 
+[![about me](https://upload.cc/i1/2021/10/18/r8f5hs.png)](https://www.sk5s.cyou/sk5s/)
 [![send feedback](https://upload.cc/i1/2021/11/11/Gv8YzL.png)](https://www.sk5s.cyou/sk5short-one?r=f)
 
 <!-- 
@@ -16,10 +14,36 @@
 
 ## ▶️[sk5short](https://www.sk5s.cyou/sk5short/)
 
+![](https://img.shields.io/github/v/release/sk5s/sk5short?style=for-the-badge)
+![](https://img.shields.io/github/last-commit/sk5s/sk5short?style=for-the-badge)
+![](https://img.shields.io/github/license/sk5s/sk5short?style=for-the-badge)
+![](https://img.shields.io/github/languages/top/sk5s/sk5short?style=for-the-badge)
+![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/sk5s/uptime/master/api/sk5short-website/uptime.json&style=for-the-badge)
+![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/sk5s/uptime/master/api/sk5short-website/response-time.json&style=for-the-badge)
+
+> 快速製作簡易短連結檔案，只要用網站產生html，短連結檔案即完成，使用javascript重新導向，不用後端程式。sk5short make a short link just in a minutes, use javascript to redirect.
+
 ![sk5short screenshot](https://i.imgur.com/mOOLBjL.png)
 
 ## ▶️[sk5short one](https://github.com/sk5s/sk5short-one)
+
+![](https://img.shields.io/github/v/release/sk5s/sk5short-one?style=for-the-badge)
+![](https://img.shields.io/github/last-commit/sk5s/sk5short-one?style=for-the-badge)
+![](https://img.shields.io/github/license/sk5s/sk5short-one?style=for-the-badge)
+![](https://img.shields.io/github/languages/top/sk5s/sk5short-one?style=for-the-badge)
+
+> 快速製作簡易短連結檔案，只要一個html就可以快速完成多個短連結，使用javascript重新導向，不用後端程式，sk5short-one make a short link just in a minutes, use javascript to redirect but in one file.
+
 ## ▶️[alsoweather](https://www.sk5s.cyou/alsoweather/)
+
+![](https://img.shields.io/github/v/release/sk5s/alsoweather?style=for-the-badge)
+![](https://img.shields.io/github/last-commit/sk5s/alsoweather?style=for-the-badge)
+![](https://img.shields.io/github/license/sk5s/alsoweather?style=for-the-badge)
+![](https://img.shields.io/github/languages/top/sk5s/alsoweather?style=for-the-badge)
+![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/sk5s/uptime/master/api/alsoweather-website/uptime.json&style=for-the-badge)
+![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/sk5s/uptime/master/api/alsoweather-website/response-time.json&style=for-the-badge)
+
+> 簡易天氣app，有mobile、desktop版本。最大溫度折線圖、最小溫度折線圖、地區記憶，chart.js，改善時間顯示
 
 |||
 | ----------- | ----------- |
