@@ -25,7 +25,7 @@
 
 ![sk5short screenshot](https://i.imgur.com/mOOLBjL.png)
 
-## ▶️[sk5short one](https://github.com/sk5s/sk5short-one)
+## ▶️[sk5short one](https://git.io/sk5short-one)
 
 ![](https://img.shields.io/github/v/release/sk5s/sk5short-one?style=for-the-badge)
 ![](https://img.shields.io/github/last-commit/sk5s/sk5short-one?style=for-the-badge)
@@ -51,6 +51,17 @@
 |![www sk5s cyou_alsoweather_(Pixel 2)](https://user-images.githubusercontent.com/92437055/140604795-ef4db4e1-d5cd-4eff-87a7-a8323e0e9832.png)|![www sk5s cyou_alsoweather_(Pixel 2)](https://user-images.githubusercontent.com/92437055/140604775-072b01a6-6982-4285-896c-77b4bdb7204b.png)|
 
 ![splash](https://rzxbsbriajkqxdsmxvev.supabase.in/storage/v1/object/public/image/splash-compress.jpg)
+
+## ▶️[english-words-list](https://git.io/en-words)
+
+![](https://img.shields.io/github/v/release/sk5s/english-words-list?style=for-the-badge)
+![](https://img.shields.io/npm/v/@sk5s/english-words-list?style=for-the-badge)
+![](https://img.shields.io/github/last-commit/sk5s/english-words-list?style=for-the-badge)
+![](https://img.shields.io/github/license/sk5s/english-words-list?style=for-the-badge)
+
+2021/11 forked from [https://github.com/lorenbrichter/Words](https://github.com/lorenbrichter/Words)
+
+![](https://nodei.co/npm/@sk5s/english-words-list.png)
 
 <!--<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />本著作由<a xmlns:cc="http://creativecommons.org/ns#" href="https://samko5sam.github.io/" property="cc:attributionName" rel="cc:attributionURL">samko5sam</a>製作，以<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">創用CC 姓名標示-非商業性-相同方式分享 4.0 國際 授權條款</a>釋出。-->
 
