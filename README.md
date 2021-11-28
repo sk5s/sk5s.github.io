@@ -63,6 +63,29 @@
 
 ![](https://nodei.co/npm/@sk5s/english-words-list.png)
 
+## ▶️[sk5s vs green theme](https://www.sk5s.cyou/sk5short-one?r=vsgt)
+
+![](https://img.shields.io/github/v/release/sk5s/sk5s-vsgt?style=for-the-badge)
+![](https://img.shields.io/github/last-commit/sk5s/sk5s-vsgt?style=for-the-badge)
+![](https://img.shields.io/github/license/sk5s/sk5s-vsgt?style=for-the-badge)
+![](https://img.shields.io/github/languages/top/sk5s/sk5s-vsgt?style=for-the-badge)
+
+---
+
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/sk5s.sk5s-vs-green-theme?logo=Visual%20Studio%20Code&style=for-the-badge)
+![Visual Studio Marketplace Last Updated](https://img.shields.io/visual-studio-marketplace/last-updated/sk5s.sk5s-vs-green-theme?logo=Visual%20Studio%20Code&style=for-the-badge)
+![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/sk5s.sk5s-vs-green-theme?logo=Visual%20Studio%20Code&style=for-the-badge)
+![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/sk5s.sk5s-vs-green-theme?logo=visual%20studio%20code&style=for-the-badge)
+
+sk5s bulma flavor color theme for vscode
+
+---
+
+<img width="960" alt="" src="https://user-images.githubusercontent.com/92437055/143763319-752013fb-9c3e-42b2-be52-d7b8747489a8.png">
+
+---
+
+
 <!--<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />本著作由<a xmlns:cc="http://creativecommons.org/ns#" href="https://samko5sam.github.io/" property="cc:attributionName" rel="cc:attributionURL">samko5sam</a>製作，以<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">創用CC 姓名標示-非商業性-相同方式分享 4.0 國際 授權條款</a>釋出。-->
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://www.sk5s.cyou/)
