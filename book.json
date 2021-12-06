@@ -1,4 +1,5 @@
 {
-  "google": "https://google.com",
-  "sk5s": "https://www.sk5s.cyou/"
+  'f' : 'https://www.surveycake.com/s/O9x8Q',
+  'en-words' : 'https://www.npmjs.com/package/@sk5s/english-words-list',
+  'vsgt' : 'https://marketplace.visualstudio.com/items?itemName=sk5s.sk5s-vs-green-theme'
 }
