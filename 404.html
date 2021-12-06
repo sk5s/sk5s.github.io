@@ -8,9 +8,9 @@
 
     <script>
       let hide = document.getElementsByClassName("need_to_hide")
-      hide.forEach((element) => {
-        element.style = 'display:none;'
-      })
+      for (let i = 0; i < hide.length; i++) {
+        hide[i].style = 'display: none;'
+      }
       let fourofour_book_location = 'https://www.sk5s.cyou/book.json' // your redirect data path
       let fourofour_defaultLink = 'https://www.sk5s.cyou/' // redirect to default when error
       let fourofour_defaultLink_delay = 6 // how many seconds you want to stay on this page not redirect to default link when user go to 404 page.
