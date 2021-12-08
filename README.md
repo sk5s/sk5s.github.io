@@ -2,7 +2,7 @@
 ---
 
 [![about me](https://upload.cc/i1/2021/10/18/r8f5hs.png)](https://www.sk5s.cyou/sk5s/)
-[![send feedback](https://upload.cc/i1/2021/11/11/Gv8YzL.png)](https://www.sk5s.cyou/sk5short-one?r=f)
+[![send feedback](https://upload.cc/i1/2021/11/11/Gv8YzL.png)](https://www.sk5s.cyou/f)
 
 <!-- 
 - [sk5short desktop](https://www.sk5s.cyou/sk5short-desktop/)
@@ -67,7 +67,7 @@
 
 ![](https://nodei.co/npm/@sk5s/english-words-list.png)
 
-## ▶️[sk5s vs green theme](https://www.sk5s.cyou/sk5short-one?r=vsgt)
+## ▶️[sk5s vs green theme](https://www.sk5s.cyou/vsgt)
 
 ![](https://img.shields.io/github/v/release/sk5s/sk5s-vsgt?style=for-the-badge)
 ![](https://img.shields.io/github/last-commit/sk5s/sk5s-vsgt?style=for-the-badge)
