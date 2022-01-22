@@ -54,7 +54,7 @@
 |![pwa](https://user-images.githubusercontent.com/92437055/144704083-8ee76313-ce13-4f4c-8216-4c1c1a323b71.png)|![www sk5s cyou_alsoweather_(Pixel 2)](https://user-images.githubusercontent.com/92437055/140604816-a5b62528-867d-41de-9ec0-82835198dff6.png)|
 |![www sk5s cyou_alsoweather_(Pixel 2)](https://user-images.githubusercontent.com/92437055/140604795-ef4db4e1-d5cd-4eff-87a7-a8323e0e9832.png)|![www sk5s cyou_alsoweather_(Pixel 2)](https://user-images.githubusercontent.com/92437055/140604775-072b01a6-6982-4285-896c-77b4bdb7204b.png)|
 
-![splash](https://rzxbsbriajkqxdsmxvev.supabase.in/storage/v1/object/public/image/splash-compress.jpg)
+![splash](https://upload.cc/i1/2022/01/22/boRBjm.jpg)
 
 ## ▶️[english-words-list](https://git.io/en-words)
 
