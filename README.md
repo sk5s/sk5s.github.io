@@ -85,7 +85,7 @@ sk5s bulma flavor color theme for vscode
 
 ---
 
-<img width="960" alt="" src="https://user-images.githubusercontent.com/92437055/143763319-752013fb-9c3e-42b2-be52-d7b8747489a8.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/92437055/150622714-956be9d2-674b-4aad-937c-110884780e5a.png">
 
 ---
 
