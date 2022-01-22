@@ -1,18 +1,18 @@
 # sk5s
 ---
 
-[![about me](https://upload.cc/i1/2021/10/18/r8f5hs.png)](https://www.sk5s.cyou/sk5s/)
-[![send feedback](https://upload.cc/i1/2021/11/11/Gv8YzL.png)](https://www.sk5s.cyou/f)
+[![about me](https://upload.cc/i1/2021/10/18/r8f5hs.png)](https://sk5s.cyou/sk5s/)
+[![send feedback](https://upload.cc/i1/2021/11/11/Gv8YzL.png)](https://sk5s.cyou/f)
 
 <!-- 
-- [sk5short desktop](https://www.sk5s.cyou/sk5short-desktop/)
+- [sk5short desktop](https://sk5s.cyou/sk5short-desktop/)
 - [sk5sub](https://github.com/sk5s/sk5sub) -->
 
 ---
 
 [![sk5s projects](https://upload.cc/i1/2021/11/11/aT3CyP.png)](https://git.io/sk5s-github)
 
-## ▶️[sk5short](https://www.sk5s.cyou/sk5short/)
+## ▶️[sk5short](https://sk5s.cyou/sk5short/)
 
 ![](https://img.shields.io/github/v/release/sk5s/sk5short?style=for-the-badge)
 ![](https://img.shields.io/github/last-commit/sk5s/sk5short?style=for-the-badge)
@@ -34,7 +34,7 @@
 
 > 快速製作簡易短連結檔案，只要一個html就可以快速完成多個短連結，使用javascript重新導向，不用後端程式，sk5short-one make a short link just in a minutes, use javascript to redirect but in one file.
 
-## ▶️[alsoweather](https://www.sk5s.cyou/alsoweather/)
+## ▶️[alsoweather](https://sk5s.cyou/alsoweather/)
 
 ![](https://img.shields.io/github/v/release/sk5s/alsoweather?style=for-the-badge)
 ![](https://img.shields.io/github/last-commit/sk5s/alsoweather?style=for-the-badge)
@@ -67,7 +67,7 @@
 
 ![](https://nodei.co/npm/@sk5s/english-words-list.png)
 
-## ▶️[sk5s vs green theme](https://www.sk5s.cyou/vsgt)
+## ▶️[sk5s vs green theme](https://sk5s.cyou/vsgt)
 
 ![](https://img.shields.io/github/v/release/sk5s/sk5s-vsgt?style=for-the-badge)
 ![](https://img.shields.io/github/last-commit/sk5s/sk5s-vsgt?style=for-the-badge)
@@ -92,4 +92,4 @@ sk5s bulma flavor color theme for vscode
 
 <!--<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />本著作由<a xmlns:cc="http://creativecommons.org/ns#" href="https://samko5sam.github.io/" property="cc:attributionName" rel="cc:attributionURL">samko5sam</a>製作，以<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">創用CC 姓名標示-非商業性-相同方式分享 4.0 國際 授權條款</a>釋出。-->
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://www.sk5s.cyou/)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://sk5s.cyou/)
