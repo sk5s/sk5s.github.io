@@ -1,5 +1,6 @@
 ---
 title: sk5s project
+permalink: /
 ---
 
 # sk5s
