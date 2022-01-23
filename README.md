@@ -1,6 +1,5 @@
 ---
 title: sk5s project
-layout: page
 ---
 
 # sk5s
