@@ -99,6 +99,8 @@ sk5s bulma flavor color theme for vscode
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://sk5s.cyou/)
 
+![](https://sk5s.cyou/sk5s/ad/sk5s-project.gif)
+
 <!-- Matomo -->
 <script>
   var _paq = window._paq = window._paq || [];
