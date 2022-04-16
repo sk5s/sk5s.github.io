@@ -7,7 +7,7 @@ permalink: /
 ---
 
 [![about me](https://upload.cc/i1/2021/10/18/r8f5hs.png)](https://sk5s.cyou/sk5s/)
-[![send feedback](https://upload.cc/i1/2021/11/11/Gv8YzL.png)](https://sk5s.cyou/f)
+<!-- [![send feedback](https://upload.cc/i1/2021/11/11/Gv8YzL.png)](https://sk5s.cyou/f) -->
 
 <!-- 
 - [sk5short desktop](https://sk5s.cyou/sk5short-desktop/)
