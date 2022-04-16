@@ -102,20 +102,3 @@ sk5s bulma flavor color theme for vscode
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://sk5s.cyou/)
 
 ![](https://sk5s.cyou/sk5s/ad/sk5s-project.gif)
-
-<!-- Matomo -->
-<script>
-  var _paq = window._paq = window._paq || [];
-  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-    var u="//sk5s.epizy.com/matomo/";
-    _paq.push(['setTrackerUrl', u+'matomo.php']);
-    _paq.push(['setSiteId', '2']);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
-  })();
-</script>
-<!-- End Matomo Code -->
-
