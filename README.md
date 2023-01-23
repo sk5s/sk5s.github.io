@@ -4,18 +4,9 @@ permalink: /
 ---
 
 # sk5s
----
 
-[![about me](https://upload.cc/i1/2021/10/18/r8f5hs.png)](https://sk5s.cyou/sk5s/)
-<!-- [![send feedback](https://upload.cc/i1/2021/11/11/Gv8YzL.png)](https://sk5s.cyou/f) -->
-
-<!-- 
-- [sk5short desktop](https://sk5s.cyou/sk5short-desktop/)
-- [sk5sub](https://github.com/sk5s/sk5sub) -->
-
----
-
-[![sk5s projects](https://upload.cc/i1/2021/11/11/aT3CyP.png)](https://git.io/sk5s-github)
+[![about me](https://sk5s.cyou/sk5s/img/about-me.png)](https://sk5s.cyou/sk5s/)
+[![sk5s projects](https://sk5s.cyou/sk5s/img/sk5s-projects.png)](https://git.io/sk5s-github)
 
 ## ▶️[sk5short](https://sk5s.cyou/sk5short/)
 
@@ -61,7 +52,7 @@ permalink: /
 |![pwa](https://user-images.githubusercontent.com/92437055/144704083-8ee76313-ce13-4f4c-8216-4c1c1a323b71.png)|![www sk5s cyou_alsoweather_(Pixel 2)](https://user-images.githubusercontent.com/92437055/140604816-a5b62528-867d-41de-9ec0-82835198dff6.png)|
 |![www sk5s cyou_alsoweather_(Pixel 2)](https://user-images.githubusercontent.com/92437055/140604795-ef4db4e1-d5cd-4eff-87a7-a8323e0e9832.png)|![www sk5s cyou_alsoweather_(Pixel 2)](https://user-images.githubusercontent.com/92437055/140604775-072b01a6-6982-4285-896c-77b4bdb7204b.png)|
 
-![splash](https://upload.cc/i1/2022/01/22/boRBjm.jpg)
+![splash](https://raw.githubusercontent.com/sk5s/alsoweather-docs/main/img/boRBjm.jpg)
 
 ## ▶️[english-words-list](https://git.io/en-words)
 
