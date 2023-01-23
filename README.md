@@ -65,7 +65,7 @@ permalink: /
 
 ![](https://nodei.co/npm/@sk5s/english-words-list.png)
 
-## ▶️[sk5s vs green theme](https://vsgt.surge.sh/)
+## ▶️[sk5s vs green theme](https://sk5s.cyou/sk5s-vsgt/)
 
 ![](https://img.shields.io/github/v/release/sk5s/sk5s-vsgt?style=for-the-badge)
 ![](https://img.shields.io/github/last-commit/sk5s/sk5s-vsgt?style=for-the-badge)
