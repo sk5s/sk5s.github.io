@@ -20,9 +20,9 @@ permalink: /
 
 <img src="https://sk5s.cyou/countdate-landing/assets/img/icon-foreground.png" alt="Logo" width="80" height="80">
 
-|![](https://raw.githubusercontent.com/sk5s/countdateapp/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png)|![](https://raw.githubusercontent.com/sk5s/countdateapp/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png)|![](https://raw.githubusercontent.com/sk5s/countdateapp/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png)|
+|![](https://raw.githubusercontent.com/sk5s/countdateapp/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1.jpg)|![](https://raw.githubusercontent.com/sk5s/countdateapp/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.jpg)|![](https://raw.githubusercontent.com/sk5s/countdateapp/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3.jpg)|
 | ----------- | ----------- | ----------- |
-|![](https://raw.githubusercontent.com/sk5s/countdateapp/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png)|![](https://raw.githubusercontent.com/sk5s/countdateapp/main/fastlane/metadata/android/en-US/images/phoneScreenshots/5.png)|![](https://raw.githubusercontent.com/sk5s/countdateapp/main/fastlane/metadata/android/en-US/images/phoneScreenshots/6.png)|
+|![](https://raw.githubusercontent.com/sk5s/countdateapp/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4.jpg)|![](https://raw.githubusercontent.com/sk5s/countdateapp/main/fastlane/metadata/android/en-US/images/phoneScreenshots/5.jpg)|![](https://raw.githubusercontent.com/sk5s/countdateapp/main/fastlane/metadata/android/en-US/images/phoneScreenshots/6.jpg)|
 
 
 ## ▶️[sk5short](https://sk5s.cyou/sk5short/)
