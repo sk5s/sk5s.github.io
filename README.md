@@ -110,3 +110,5 @@ sk5s bulma flavor color theme for vscode
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://sk5s.cyou/)
 
 ![](https://sk5s.cyou/sk5s/ad/sk5s-project.gif)
+
+<a href='https://ko-fi.com/J3J3IM7SC' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
