@@ -16,6 +16,8 @@ permalink: /
 ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/sk5s/uptime/master/api/countdate-website/uptime.json&style=for-the-badge)
 ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/sk5s/uptime/master/api/countdate-website/response-time.json&style=for-the-badge)
 
+<a href='https://play.google.com/store/apps/details?id=cyou.sk5s.app.countdate&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="150px"/></a>
+
 > Date Countdown: Know How Many Days Left To a Specific Date.
 
 <img src="https://sk5s.cyou/countdate-landing/assets/img/icon-foreground.png" alt="Logo" width="80" height="80">
@@ -56,20 +58,18 @@ permalink: /
 ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/sk5s/uptime/master/api/alsoweather-website/uptime.json&style=for-the-badge)
 ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/sk5s/uptime/master/api/alsoweather-website/response-time.json&style=for-the-badge)
 
+<a href='https://play.google.com/store/apps/details?id=cyou.sk5s.app.alsoweather&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="150px"/></a>
+
 > 簡易天氣app，有mobile、desktop版本。最大溫度折線圖、最小溫度折線圖、地區記憶，chart.js，改善時間顯示
 
-<div style="padding:56.34% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/675285969?h=1bd2a02625&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<!-- <div style="padding:56.34% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/675285969?h=1bd2a02625&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script> -->
 
 📷 截圖 Screenshots
 ---
 
-|||
-| ----------- | ----------- |
-|![127 0 0 1_5500_(Pixel 2)](https://user-images.githubusercontent.com/92437055/144749918-593c83bc-72eb-4563-92ee-1fc27e7396ef.png)|![127 0 0 1_5500_(Pixel 2) (1)](https://user-images.githubusercontent.com/92437055/144749956-2659abf2-e661-42cb-bf65-81378517914a.png)|
-|![pwa](https://user-images.githubusercontent.com/92437055/144704083-8ee76313-ce13-4f4c-8216-4c1c1a323b71.png)|![www sk5s cyou_alsoweather_(Pixel 2)](https://user-images.githubusercontent.com/92437055/140604816-a5b62528-867d-41de-9ec0-82835198dff6.png)|
-|![www sk5s cyou_alsoweather_(Pixel 2)](https://user-images.githubusercontent.com/92437055/140604795-ef4db4e1-d5cd-4eff-87a7-a8323e0e9832.png)|![www sk5s cyou_alsoweather_(Pixel 2)](https://user-images.githubusercontent.com/92437055/140604775-072b01a6-6982-4285-896c-77b4bdb7204b.png)|
-
-![splash](https://raw.githubusercontent.com/sk5s/alsoweather-docs/main/img/boRBjm.jpg)
+|![1](https://user-images.githubusercontent.com/92437055/219948348-65581d72-13fe-494f-8a2a-cf1281a89d8f.jpg)|![2](https://user-images.githubusercontent.com/92437055/219948374-9c97863d-bec2-477b-9b54-e1a6b0712b02.jpg)|
+|-|-|
+|![3](https://user-images.githubusercontent.com/92437055/219948379-123fdba8-4fbe-4d7f-8ff3-c8d448435520.jpg)|![4](https://user-images.githubusercontent.com/92437055/219948385-0fd10aff-a10c-4478-acca-90b4ea638cb4.jpg)|
 
 ## ▶️[english-words-list](https://git.io/en-words)
 
