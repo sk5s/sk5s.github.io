@@ -16,7 +16,8 @@ permalink: /
 ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/sk5s/uptime/master/api/countdate-website/uptime.json&style=for-the-badge)
 ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/sk5s/uptime/master/api/countdate-website/response-time.json&style=for-the-badge)
 
-<a href='https://play.google.com/store/apps/details?id=cyou.sk5s.app.countdate&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="150px"/></a>
+<a target="_blank" href='https://play.google.com/store/apps/details?id=cyou.sk5s.app.countdate&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="150px"/></a>
+<a target="_blank" href='https://apt.izzysoft.de/fdroid/index/apk/cyou.sk5s.app.countdate'><img alt='Get it on Google Play' src='https://sk5s.cyou/countdate-landing/assets/img/IzzyOnDroid.png' width="150px"/></a>
 
 > Date Countdown: Know How Many Days Left To a Specific Date.
 
@@ -36,7 +37,7 @@ permalink: /
 ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/sk5s/uptime/master/api/alsoweather-website/uptime.json&style=for-the-badge)
 ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/sk5s/uptime/master/api/alsoweather-website/response-time.json&style=for-the-badge)
 
-<a href='https://play.google.com/store/apps/details?id=cyou.sk5s.app.alsoweather&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="150px"/></a>
+<a target="_blank" href='https://play.google.com/store/apps/details?id=cyou.sk5s.app.alsoweather&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="150px"/></a>
 
 > 簡易天氣app，有mobile、desktop版本。最大溫度折線圖、最小溫度折線圖、地區記憶，chart.js，改善時間顯示
 
