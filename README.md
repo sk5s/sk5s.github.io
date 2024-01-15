@@ -3,10 +3,32 @@ title: sk5s project
 permalink: /
 ---
 
-# sk5s
+# sk5s links
 
 [![about me](https://sk5s.cyou/sk5s/img/about-me.png)](https://sk5s.cyou/sk5s/)
 [![sk5s projects](https://sk5s.cyou/sk5s/img/sk5s-projects.png)](https://git.io/sk5s-github)
+
+<table>
+  <tr>
+    <td>
+      <a href="https://games.sk5s.cyou/" target="_blank" style="width: 100px;">
+        <div style="width: 100px;">
+          <img width="100px" src="https://games.sk5s.cyou/logo.png">
+          <p>sk5s Games</p>
+        </div>
+      </a>
+    </td>
+    <td>
+      <a href="https://sk5s.cyou/countdate-landing/" target="_blank" style="width: 100px;">
+        <div style="width: 100px;">
+          <img width="100px" src="https://sk5s.cyou/countdate-landing/assets/img/icon.png">
+          <p>Countdate</p>
+        </div>
+      </a>
+    </td>
+  </tr>
+</table>
+<hr>
 
 ## ▶️[countdate](https://sk5s.cyou/countdate-landing/)
 ![](https://img.shields.io/github/v/release/sk5s/countdateapp?style=for-the-badge)
