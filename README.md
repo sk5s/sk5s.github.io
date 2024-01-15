@@ -5,8 +5,8 @@ permalink: /
 
 # sk5s links
 
-[![about me](https://sk5s.cyou/sk5s/img/about-me.png)](https://sk5s.cyou/sk5s/)
-[![sk5s projects](https://sk5s.cyou/sk5s/img/sk5s-projects.png)](https://git.io/sk5s-github)
+[![about me](https://sk5s.cyou/sk5s/img/about-me.png)](https://github.com/sk5s)
+<!--[![sk5s projects](https://sk5s.cyou/sk5s/img/sk5s-projects.png)](https://git.io/sk5s-github)-->
 
 <table>
   <tr>
