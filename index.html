@@ -1,0 +1,47 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>sk5s project</title><meta name="generator" content="Publii Open-Source CMS for Static Site"><link rel="canonical" href="https://sk5s.cyou/"><link rel="alternate" type="application/atom+xml" href="https://sk5s.cyou/feed.xml"><link rel="alternate" type="application/json" href="https://sk5s.cyou/feed.json"><meta property="og:title" content="sk5s project"><meta property="og:site_name" content="sk5s project"><meta property="og:description" content=""><meta property="og:url" content="https://sk5s.cyou/"><meta property="og:type" content="website"><link rel="shortcut icon" href="https://sk5s.cyou/media/website/favicon.png" type="image/png"><link rel="stylesheet" href="https://sk5s.cyou/assets/css/style.css?v=505b5a98e624746b3e885103a8b2973f"><script type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","name":"sk5s project","url":"https://sk5s.cyou/"}</script><noscript><style>img[loading] {
+                    opacity: 1;
+                }</style></noscript><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3131591813097395" crossorigin="anonymous"></script></head><body><script>let saveHTML = ""
+let is404 = false
+let redirect = window.location.pathname.slice(1)
+let fourofour_book_location = ''
+let fourofour_defaultLink = 'https://sk5s.cyou/' // redirect to default when error
+let fourofour_defaultLink_delay = 6
+document.addEventListener("DOMContentLoaded", () => {
+	if (document.querySelector("header.hero") !== null && document.querySelector("header.hero > h1").innerText === "404"){
+		console.log("404 page")
+		is404 = true
+		saveHTML = document.querySelector("body > div.container").innerHTML
+		document.querySelector("body > div.container").innerHTML = ""
+  	fourofour_book_location = 'https://sk5s.cyou/book.json'
+  	fetch_data_and_go(fourofour_book_location)
+	}
+})
+function found_redirect(){}
+function not_found(){
+  document.querySelector("body > div.container").innerHTML = saveHTML
+}
+function redirect_go(book){
+  if (redirect !== null && book[redirect] !== '' && book[redirect] !== undefined) {
+		found_redirect()
+    window.location.replace(book[redirect])
+  } else {
+    not_found()
+    if (fourofour_defaultLink) {
+      if (fourofour_defaultLink_delay){
+        setTimeout(() => {
+          window.location.replace(fourofour_defaultLink)
+        }, fourofour_defaultLink_delay*1000);
+      }else{
+        window.location.replace(fourofour_defaultLink)
+      }
+    }
+  }
+}
+
+async function fetch_data_and_go(path){
+  await fetch(path).then(async (res) => {
+    return await res.json()
+  }).then((book)=>{
+    redirect_go(book)
+  })
+}</script><div class="container"><header class="header" id="js-header"><a href="https://sk5s.cyou/" class="logo">sk5s project</a><nav class="navbar js-navbar"><button class="navbar__toggle js-toggle" aria-label="Menu"><span class="navbar__toggle-box"><span class="navbar__toggle-inner">Menu</span></span></button><ul class="navbar__menu"><li class="active"><a href="https://sk5s.cyou/" target="_self">Home</a></li></ul></nav></header><main><div class="hero wrapper"><p>Welcome to sk5s project.</p><h1>Weaving code to illuminate the future of the world.</h1></div><nav class="filter"><ul class="filter__button-group"><li><button class="filter__item is-active" data-filter="*">All</button></li><li><button class="filter__item" data-filter=".app">App</button></li><li><button class="filter__item" data-filter=".extension">Extension</button></li><li><button class="filter__item" data-filter=".package">Package</button></li><li><button class="filter__item" data-filter=".tool">Tool</button></li></ul></nav><div class="l-col l-col--3"><section class="c-card app"><a href="https://sk5s.cyou/countdate/" class="c-card__link"><div class="c-card__body"><div class="c-card__text"><h2>Countdate</h2></div></div></a></section><section class="c-card app"><a href="https://sk5s.cyou/alsoweather/" class="c-card__link"><div class="c-card__body"><div class="c-card__text"><h2>alsoweather</h2></div></div></a></section><section class="c-card tool"><a href="https://sk5s.cyou/sk5short/" class="c-card__link"><div class="c-card__body"><div class="c-card__text"><h2>sk5short</h2></div></div></a></section><section class="c-card tool"><a href="https://sk5s.cyou/sk5short-one/" class="c-card__link"><div class="c-card__body"><div class="c-card__text"><h2>sk5short one</h2></div></div></a></section><section class="c-card package"><a href="https://sk5s.cyou/english-words-list/" class="c-card__link"><div class="c-card__body"><div class="c-card__text"><h2>English words list</h2></div></div></a></section><section class="c-card extension"><a href="https://sk5s.cyou/sk5s-vs-green-theme/" class="c-card__link"><div class="c-card__header"><img src="https://sk5s.cyou/media/posts/1/vsgt.png" srcset="https://sk5s.cyou/media/posts/1/responsive/vsgt-xs.png 300w, https://sk5s.cyou/media/posts/1/responsive/vsgt-sm.png 480w, https://sk5s.cyou/media/posts/1/responsive/vsgt-md.png 768w, https://sk5s.cyou/media/posts/1/responsive/vsgt-lg.png 1024w, https://sk5s.cyou/media/posts/1/responsive/vsgt-xl.png 1360w, https://sk5s.cyou/media/posts/1/responsive/vsgt-2xl.png 1600w, https://sk5s.cyou/media/posts/1/responsive/vsgt-sm2.png 375w" sizes="(min-width: 75em) 25vw, (min-width: 56.25em) 33vw, (min-width: 37.5em) 50vw, 100vw" loading="lazy" height="1018" width="1920" alt=""></div><div class="c-card__body"><div class="c-card__text"><h2>sk5s vs green theme</h2></div></div></a></section></div></main><footer class="footer"><div class="footer__copyright">&copy; 2024 - sk5s.</div></footer></div><script defer="defer" src="https://sk5s.cyou/assets/js/scripts.min.js?v=620157e86bfc246cfef480b1b4aadb48"></script><script>window.publiiThemeMenuConfig={mobileMenuMode:'sidebar',animationSpeed:300,submenuWidth: 'auto',doubleClickTime:500,mobileMenuExpandableSubmenus:true,relatedContainerForOverlayMenuSelector:'.navbar'};</script><script defer="defer" src="https://sk5s.cyou/assets/js/isotope.pkgd.min.js?v=2afcff647ed260006faa71c8e779e8d4"></script><script>window.addEventListener("DOMContentLoaded",function(){var j=new Isotope(".l-col",{itemSelector:".c-card",percentPosition:true,layoutMode:"masonry",transitionDuration:"0.6s",masonry:{columnWidth:".c-card"}});var g=document.querySelector(".filter__button-group");if(g){g.addEventListener("click",function(i){if(!matchesSelector(i.target,"button")){return}var k=i.target.getAttribute("data-filter");k=k;j.arrange({filter:k})});var b=document.querySelectorAll(".filter__button-group");for(var c=0,e=b.length;c<e;c++){var d=b[c];h(d)}function h(i){i.addEventListener("click",function(k){if(!matchesSelector(k.target,"button")){return}i.querySelector(".is-active").classList.remove("is-active");k.target.classList.add("is-active")})}}var a=document.querySelector(".l-col");var f=document.querySelectorAll(".c-card");a.classList.add("is-visible");j.revealItemElements(f)});</script><script>/*<![CDATA[*/var images=document.querySelectorAll("img[loading]");for(var i=0;i<images.length;i++){if(images[i].complete){images[i].classList.add("is-loaded")}else{images[i].addEventListener("load",function(){this.classList.add("is-loaded")},false)}};/*]]>*/</script></body></html>

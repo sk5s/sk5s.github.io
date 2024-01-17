@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>sk5s project</title>
+    <link href="https://sk5s.cyou/feed.xml" rel="self" />
+    <link href="https://sk5s.cyou" />
+    <updated>2024-01-17T18:43:25+08:00</updated>
+    <author>
+        <name>sk5s</name>
+    </author>
+    <id>https://sk5s.cyou</id>
+
+    <entry>
+        <title>Countdate</title>
+        <author>
+            <name>sk5s</name>
+        </author>
+        <link href="https://sk5s.cyou/countdate/"/>
+        <id>https://sk5s.cyou/countdate/</id>
+            <category term="App"/>
+
+        <updated>2024-01-17T18:43:25+08:00</updated>
+            <summary>
+                <![CDATA[
+                    Website Date Countdown: Know How Many Days Left To a Specific Date.
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>alsoweather</title>
+        <author>
+            <name>sk5s</name>
+        </author>
+        <link href="https://sk5s.cyou/alsoweather/"/>
+        <id>https://sk5s.cyou/alsoweather/</id>
+            <category term="App"/>
+
+        <updated>2024-01-17T18:39:52+08:00</updated>
+            <summary>
+                <![CDATA[
+                    簡易天氣app，有mobile、desktop版本。最大溫度折線圖、最小溫度折線圖、地區記憶，chart.js，改善時間顯示
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>sk5short</title>
+        <author>
+            <name>sk5s</name>
+        </author>
+        <link href="https://sk5s.cyou/sk5short/"/>
+        <id>https://sk5s.cyou/sk5short/</id>
+            <category term="Tool"/>
+
+        <updated>2024-01-17T18:35:42+08:00</updated>
+            <summary>
+                <![CDATA[
+                    快速製作簡易短連結檔案，只要用網站產生html，短連結檔案即完成，使用javascript重新導向，不用後端程式。 sk5short make a short link just in a minutes, use javascript&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>sk5short one</title>
+        <author>
+            <name>sk5s</name>
+        </author>
+        <link href="https://sk5s.cyou/sk5short-one/"/>
+        <id>https://sk5s.cyou/sk5short-one/</id>
+            <category term="Tool"/>
+
+        <updated>2024-01-17T18:35:45+08:00</updated>
+            <summary>
+                <![CDATA[
+                    快速製作簡易短連結檔案，只要一個 html 就可以快速完成多個短連結，使用 javascript 重新導向，不用後端程式。 sk5short-one make a short link just in&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>English words list</title>
+        <author>
+            <name>sk5s</name>
+        </author>
+        <link href="https://sk5s.cyou/english-words-list/"/>
+        <id>https://sk5s.cyou/english-words-list/</id>
+            <category term="Package"/>
+
+        <updated>2024-01-17T18:30:13+08:00</updated>
+            <summary>
+                <![CDATA[
+                    2021/11 forked from https://github.com/lorenbrichter/Words
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>sk5s vs green theme</title>
+        <author>
+            <name>sk5s</name>
+        </author>
+        <link href="https://sk5s.cyou/sk5s-vs-green-theme/"/>
+        <id>https://sk5s.cyou/sk5s-vs-green-theme/</id>
+        <media:content url="https://sk5s.cyou/media/posts/1/vsgt.png" medium="image" />
+            <category term="Extension"/>
+
+        <updated>2024-01-17T18:13:54+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sk5s.cyou/media/posts/1/vsgt.png" alt="" />
+                    sk5s bulma flavor color theme for vscode Website
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+</feed>

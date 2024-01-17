@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sk5s.cyou/sitemap.xml

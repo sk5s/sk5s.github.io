@@ -1,0 +1,98 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "sk5s project",
+    "description": "",
+    "home_page_url": "https://sk5s.cyou",
+    "feed_url": "https://sk5s.cyou/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "sk5s"
+    },
+    "items": [
+        {
+            "id": "https://sk5s.cyou/countdate/",
+            "url": "https://sk5s.cyou/countdate/",
+            "title": "Countdate",
+            "summary": "Website Date Countdown: Know How Many Days Left To a Specific Date.",
+            "author": {
+                "name": "sk5s"
+            },
+            "tags": [
+                   "App"
+            ],
+            "date_published": "2024-01-17T18:42:43+08:00",
+            "date_modified": "2024-01-17T18:43:25+08:00"
+        },
+        {
+            "id": "https://sk5s.cyou/alsoweather/",
+            "url": "https://sk5s.cyou/alsoweather/",
+            "title": "alsoweather",
+            "summary": "簡易天氣app，有mobile、desktop版本。最大溫度折線圖、最小溫度折線圖、地區記憶，chart.js，改善時間顯示",
+            "author": {
+                "name": "sk5s"
+            },
+            "tags": [
+                   "App"
+            ],
+            "date_published": "2024-01-17T18:38:28+08:00",
+            "date_modified": "2024-01-17T18:39:52+08:00"
+        },
+        {
+            "id": "https://sk5s.cyou/sk5short/",
+            "url": "https://sk5s.cyou/sk5short/",
+            "title": "sk5short",
+            "summary": "快速製作簡易短連結檔案，只要用網站產生html，短連結檔案即完成，使用javascript重新導向，不用後端程式。 sk5short make a short link just in a minutes, use javascript&hellip;",
+            "author": {
+                "name": "sk5s"
+            },
+            "tags": [
+                   "Tool"
+            ],
+            "date_published": "2024-01-17T18:34:21+08:00",
+            "date_modified": "2024-01-17T18:35:42+08:00"
+        },
+        {
+            "id": "https://sk5s.cyou/sk5short-one/",
+            "url": "https://sk5s.cyou/sk5short-one/",
+            "title": "sk5short one",
+            "summary": "快速製作簡易短連結檔案，只要一個 html 就可以快速完成多個短連結，使用 javascript 重新導向，不用後端程式。 sk5short-one make a short link just in&hellip;",
+            "author": {
+                "name": "sk5s"
+            },
+            "tags": [
+                   "Tool"
+            ],
+            "date_published": "2024-01-17T18:32:42+08:00",
+            "date_modified": "2024-01-17T18:35:45+08:00"
+        },
+        {
+            "id": "https://sk5s.cyou/english-words-list/",
+            "url": "https://sk5s.cyou/english-words-list/",
+            "title": "English words list",
+            "summary": "2021/11 forked from https://github.com/lorenbrichter/Words",
+            "author": {
+                "name": "sk5s"
+            },
+            "tags": [
+                   "Package"
+            ],
+            "date_published": "2024-01-17T18:29:55+08:00",
+            "date_modified": "2024-01-17T18:30:13+08:00"
+        },
+        {
+            "id": "https://sk5s.cyou/sk5s-vs-green-theme/",
+            "url": "https://sk5s.cyou/sk5s-vs-green-theme/",
+            "title": "sk5s vs green theme",
+            "summary": "sk5s bulma flavor color theme for vscode Website",
+            "image": "https://sk5s.cyou/media/posts/1/vsgt.png",
+            "author": {
+                "name": "sk5s"
+            },
+            "tags": [
+                   "Extension"
+            ],
+            "date_published": "2023-01-23T14:20:00+08:00",
+            "date_modified": "2024-01-17T18:13:54+08:00"
+        }
+    ]
+}
