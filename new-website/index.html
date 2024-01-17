@@ -15,9 +15,11 @@ document.addEventListener("DOMContentLoaded", () => {
   	fourofour_book_location = 'https://sk5s.cyou/book.json'
   	fetch_data_and_go(fourofour_book_location)
 	}
-  if (location.pathname == "/" || location.pathname == "/index.html"){
-  	document.querySelector("body > div.container > main > nav > ul > li:nth-child(3) > button").click()
-  }
+  setTimeout(() => {
+  	if (location.pathname == "/" || location.pathname == "/index.html"){
+  		document.querySelector("body > div.container > main > nav > ul > li:nth-child(3) > button").click()
+  	}
+  }, 500)
 })
 function found_redirect(){}
 function not_found(){
