@@ -12,16 +12,16 @@
         {
             "id": "https://sk5s.cyou/new-website/",
             "url": "https://sk5s.cyou/new-website/",
-            "title": "New website",
-            "summary": "This is a brand new website for sk5s project.",
+            "title": "Our New Website is Now Live!",
+            "summary": "We’re thrilled to announce the launch of our new projects website! This&hellip;",
             "author": {
                 "name": "sk5s"
             },
             "tags": [
-                   "Post"
+                   "Posts"
             ],
             "date_published": "2024-01-17T21:53:41+08:00",
-            "date_modified": "2024-01-17T21:54:31+08:00"
+            "date_modified": "2024-01-18T21:41:29+08:00"
         },
         {
             "id": "https://sk5s.cyou/countdate/",
@@ -36,7 +36,7 @@
                    "Project"
             ],
             "date_published": "2024-01-17T18:42:43+08:00",
-            "date_modified": "2024-01-17T21:42:44+08:00"
+            "date_modified": "2024-01-18T21:40:33+08:00"
         },
         {
             "id": "https://sk5s.cyou/alsoweather-project/",

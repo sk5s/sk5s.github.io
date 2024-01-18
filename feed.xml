@@ -3,25 +3,25 @@
     <title>sk5s project</title>
     <link href="https://sk5s.cyou/feed.xml" rel="self" />
     <link href="https://sk5s.cyou" />
-    <updated>2024-01-17T21:54:31+08:00</updated>
+    <updated>2024-01-18T21:41:29+08:00</updated>
     <author>
         <name>sk5s</name>
     </author>
     <id>https://sk5s.cyou</id>
 
     <entry>
-        <title>New website</title>
+        <title>Our New Website is Now Live!</title>
         <author>
             <name>sk5s</name>
         </author>
         <link href="https://sk5s.cyou/new-website/"/>
         <id>https://sk5s.cyou/new-website/</id>
-            <category term="Post"/>
+            <category term="Posts"/>
 
-        <updated>2024-01-17T21:54:31+08:00</updated>
+        <updated>2024-01-18T21:41:29+08:00</updated>
             <summary>
                 <![CDATA[
-                    This is a brand new website for sk5s project.
+                    We’re thrilled to announce the launch of our new projects website! This&hellip;
                 ]]>
             </summary>
         <content></content>
@@ -36,7 +36,7 @@
         <media:content url="https://sk5s.cyou/media/posts/7/upwork-portfolio-countdate.png" medium="image" />
             <category term="Project"/>
 
-        <updated>2024-01-17T21:42:44+08:00</updated>
+        <updated>2024-01-18T21:40:33+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sk5s.cyou/media/posts/7/upwork-portfolio-countdate.png" alt="" />
