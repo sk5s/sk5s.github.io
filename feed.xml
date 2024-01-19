@@ -3,12 +3,29 @@
     <title>sk5s project</title>
     <link href="https://sk5s.cyou/feed.xml" rel="self" />
     <link href="https://sk5s.cyou" />
-    <updated>2024-01-18T21:41:29+08:00</updated>
+    <updated>2024-01-19T19:33:35+08:00</updated>
     <author>
         <name>sk5s</name>
     </author>
     <id>https://sk5s.cyou</id>
 
+    <entry>
+        <title>Our New Blog &quot;Wowcode&quot; is Now Live!</title>
+        <author>
+            <name>sk5s</name>
+        </author>
+        <link href="https://sk5s.cyou/our-new-blog-wowcode-is-now-live/"/>
+        <id>https://sk5s.cyou/our-new-blog-wowcode-is-now-live/</id>
+            <category term="Posts"/>
+
+        <updated>2024-01-19T19:27:43+08:00</updated>
+            <summary>
+                <![CDATA[
+                    We are thrilled to announce the launch of our new coding blog!&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Our New Website is Now Live!</title>
         <author>
@@ -18,7 +35,7 @@
         <id>https://sk5s.cyou/new-website/</id>
             <category term="Posts"/>
 
-        <updated>2024-01-18T21:41:29+08:00</updated>
+        <updated>2024-01-19T19:33:35+08:00</updated>
             <summary>
                 <![CDATA[
                     We’re thrilled to announce the launch of our new projects website! This&hellip;
