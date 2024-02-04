@@ -137,6 +137,7 @@ sk5s bulma flavor color theme for vscode
 
 <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
 <script>
+  window.location.replace("https://sk5s.com")
   kofiWidgetOverlay.draw('samko5sam', {
     'type': 'floating-chat',
     'floating-chat.donateButton.text': 'Support me',
