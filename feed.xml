@@ -3,12 +3,29 @@
     <title>sk5s project</title>
     <link href="https://sk5s.cyou/feed.xml" rel="self" />
     <link href="https://sk5s.cyou" />
-    <updated>2024-01-27T10:47:45+08:00</updated>
+    <updated>2024-02-05T16:04:34+08:00</updated>
     <author>
         <name>sk5s</name>
     </author>
     <id>https://sk5s.cyou</id>
 
+    <entry>
+        <title>Countdate v1.5.8 Released</title>
+        <author>
+            <name>sk5s</name>
+        </author>
+        <link href="https://sk5s.cyou/countdate-v158-released/"/>
+        <id>https://sk5s.cyou/countdate-v158-released/</id>
+            <category term="Posts"/>
+
+        <updated>2024-02-05T16:04:34+08:00</updated>
+            <summary>
+                <![CDATA[
+                    We are thrilled to announce the release of Countdate v1.5.8. This update&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Countdate 擁有乾淨界面無廣告的倒數日 App</title>
         <author>
