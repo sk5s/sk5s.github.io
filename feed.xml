@@ -3,29 +3,12 @@
     <title>sk5s project</title>
     <link href="https://sk5s.cyou/feed.xml" rel="self" />
     <link href="https://sk5s.cyou" />
-    <updated>2024-02-05T16:04:34+08:00</updated>
+    <updated>2024-01-27T10:47:45+08:00</updated>
     <author>
         <name>sk5s</name>
     </author>
     <id>https://sk5s.cyou</id>
 
-    <entry>
-        <title>Countdate v1.5.8 Released</title>
-        <author>
-            <name>sk5s</name>
-        </author>
-        <link href="https://sk5s.cyou/countdate-v158-released/"/>
-        <id>https://sk5s.cyou/countdate-v158-released/</id>
-            <category term="Posts"/>
-
-        <updated>2024-02-05T16:04:34+08:00</updated>
-            <summary>
-                <![CDATA[
-                    We are thrilled to announce the release of Countdate v1.5.8. This update&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
     <entry>
         <title>Countdate 擁有乾淨界面無廣告的倒數日 App</title>
         <author>
@@ -41,40 +24,6 @@
                 <![CDATA[
                         <img src="https://sk5s.cyou/media/posts/11/upwork-portfolio-countdate.png" alt="" />
                     在忙碌的生活中，我們經常會忘記一些重要的日子或事件。有時候，我們需要一個工具來提醒我們這些重要的事情。這就是今天要介紹的倒數日 App - Countdate 可以幫助你的地方。 Countdate 是一個開源的 Android 應用程式，能幫你追蹤重要的日期。你只要輸入日期，就可以看到距離該日期還剩多少天或已經過了幾天。這是一個方便的工具，可以倒計時或正數任何你關心的事件，例如特殊經驗、截止日期或紀念日等。Countdate 介面簡單，功能實用，適合任何人使用。它在 Google Play&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Our New Blog &quot;Wowcode&quot; is Now Live!</title>
-        <author>
-            <name>sk5s</name>
-        </author>
-        <link href="https://sk5s.cyou/our-new-blog-wowcode-is-now-live/"/>
-        <id>https://sk5s.cyou/our-new-blog-wowcode-is-now-live/</id>
-            <category term="Posts"/>
-
-        <updated>2024-01-19T19:27:43+08:00</updated>
-            <summary>
-                <![CDATA[
-                    We are thrilled to announce the launch of our new coding blog!&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Our New Website is Now Live!</title>
-        <author>
-            <name>sk5s</name>
-        </author>
-        <link href="https://sk5s.cyou/new-website/"/>
-        <id>https://sk5s.cyou/new-website/</id>
-            <category term="Posts"/>
-
-        <updated>2024-01-19T19:33:35+08:00</updated>
-            <summary>
-                <![CDATA[
-                    We’re thrilled to announce the launch of our new projects website! This&hellip;
                 ]]>
             </summary>
         <content></content>
