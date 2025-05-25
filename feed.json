@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://sk5s.cyou/answersai-tw-2/",
+            "url": "https://sk5s.cyou/answersai-tw-2/",
+            "title": "《解惑之書AI》：讓 AI 給你一點方向，當人生卡住時的智慧之眼",
+            "summary": "每個人心中都有些沒人能替你解答的問題。 該不該換工作？ 這段感情還要繼續嗎？ 我現在做的選擇，是不是走在正確的路上？ 還是，只是想找個聲音安慰自己：「沒關係，你會好起來的。」 現代生活中，我們習慣快速找答案，Google一下、問朋友、刷社群。 但面對真正的內心疑問，卻常常越找越亂。這時候，你需要的，不是一個正確答案，而是一段讓你「靜下來」思考的語言。 《解惑之書AI》是一款結合 AI 與心靈探索的小遊戲。 它的核心很簡單： 📌默念你心中的問題，然後點擊&hellip;",
+            "image": "https://sk5s.cyou/media/posts/16/answersai-tw-2.jpg",
+            "author": {
+                "name": "sk5s"
+            },
+            "tags": [
+                   "介紹文章"
+            ],
+            "date_published": "2025-05-25T21:34:03+08:00",
+            "date_modified": "2025-05-25T22:10:36+08:00"
+        },
+        {
             "id": "https://sk5s.cyou/answersai-tw/",
             "url": "https://sk5s.cyou/answersai-tw/",
             "title": "安卓免費 | 答案之書 App 大比較：探索你的靈感與答案",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2022-01-25T18:34:00+08:00",
             "date_modified": "2024-01-17T21:42:57+08:00"
-        },
-        {
-            "id": "https://sk5s.cyou/sk5short-one-project/",
-            "url": "https://sk5s.cyou/sk5short-one-project/",
-            "title": "sk5short one",
-            "summary": "快速製作簡易短連結檔案，只要一個 html 就可以快速完成多個短連結，使用 javascript 重新導向，不用後端程式。 sk5short-one make a short link just in&hellip;",
-            "image": "https://sk5s.cyou/media/posts/4/sk5short-one.png",
-            "author": {
-                "name": "sk5s"
-            },
-            "tags": [
-                   "Projects"
-            ],
-            "date_published": "2021-11-13T18:32:00+08:00",
-            "date_modified": "2024-01-17T21:43:04+08:00"
         }
     ]
 }
