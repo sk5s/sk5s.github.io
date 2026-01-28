@@ -3,12 +3,46 @@
     <title>sk5s project</title>
     <link href="https://sk5s.cyou/feed.xml" rel="self" />
     <link href="https://sk5s.cyou" />
-    <updated>2026-01-06T12:02:59+08:00</updated>
+    <updated>2026-01-28T15:42:04+08:00</updated>
     <author>
         <name>sk5s</name>
     </author>
     <id>https://sk5s.cyou</id>
 
+    <entry>
+        <title>誰是臥底 Android 可以玩嗎？玩法整理＋好用的 Android 誰是臥底 App</title>
+        <author>
+            <name>sk5s</name>
+        </author>
+        <link href="https://sk5s.cyou/2026-who-is-spy-android/"/>
+        <id>https://sk5s.cyou/2026-who-is-spy-android/</id>
+            <category term="介紹文章"/>
+
+        <updated>2026-01-28T15:28:04+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    很多 Android 用戶在找聚會遊戲時，第一個問題常常是： 「誰是臥底 Android 有好用的版本嗎？」 其實現在 用 Android 手機玩誰是臥底非常方便，而且只要選對 App，整個遊戲流程會順很多。 這篇文章會幫你整理：&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>誰是臥底 iOS 怎麼玩？完整玩法介紹＋最好用的 iPhone 誰是臥底 App</title>
+        <author>
+            <name>sk5s</name>
+        </author>
+        <link href="https://sk5s.cyou/2026-who-is-spy-ios/"/>
+        <id>https://sk5s.cyou/2026-who-is-spy-ios/</id>
+            <category term="介紹文章"/>
+
+        <updated>2026-01-28T15:26:59+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    如果你是 iPhone 使用者，正在找一款適合朋友聚會、派對或破冰時玩的遊戲，那你一定看過「誰是臥底」。 很多人也會直接搜尋：「誰是臥底 iOS 可以玩嗎？」、「誰是臥底 iPhone 有 App 嗎？」 答案是肯定的，而且 在&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>《解惑之書AI》：讓 AI 給你一點方向，當人生卡住時的智慧之眼</title>
         <author>
@@ -157,44 +191,6 @@
                 <![CDATA[
                         <img src="https://sk5s.cyou/media/posts/1/vsgt.png" alt="" />
                     sk5s bulma flavor color theme for vscode Website
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>English words list</title>
-        <author>
-            <name>sk5s</name>
-        </author>
-        <link href="https://sk5s.cyou/english-words-list/"/>
-        <id>https://sk5s.cyou/english-words-list/</id>
-        <media:content url="https://sk5s.cyou/media/posts/3/english-words-list.png" medium="image" />
-            <category term="Projects"/>
-
-        <updated>2022-07-18T18:29:00+08:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://sk5s.cyou/media/posts/3/english-words-list.png" alt="" />
-                    2021/11 forked from https://github.com/lorenbrichter/Words Github
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>sk5short</title>
-        <author>
-            <name>sk5s</name>
-        </author>
-        <link href="https://sk5s.cyou/sk5short-project/"/>
-        <id>https://sk5s.cyou/sk5short-project/</id>
-        <media:content url="https://sk5s.cyou/media/posts/5/sk5short.png" medium="image" />
-            <category term="Projects"/>
-
-        <updated>2022-01-25T18:34:00+08:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://sk5s.cyou/media/posts/5/sk5short.png" alt="" />
-                    Website 快速製作簡易短連結檔案，只要用網站產生html，短連結檔案即完成，使用javascript重新導向，不用後端程式。 sk5short make a short link just in a minutes, use&hellip;
                 ]]>
             </summary>
         <content></content>
