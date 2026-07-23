@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "sk5s project",
     "description": "",
-    "home_page_url": "https://sk5s.cyou",
-    "feed_url": "https://sk5s.cyou/feed.json",
+    "home_page_url": "https://twapp.sk5s.com",
+    "feed_url": "https://twapp.sk5s.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "sk5s"
     },
     "items": [
         {
-            "id": "https://sk5s.cyou/2026-who-is-spy-how/",
-            "url": "https://sk5s.cyou/2026-who-is-spy-how/",
+            "id": "https://twapp.sk5s.com/2026-who-is-spy-how/",
+            "url": "https://twapp.sk5s.com/2026-who-is-spy-how/",
             "title": "誰是臥底怎麼玩？完整玩法規則、題目說明與手機 App 懶人包",
             "summary": "「誰是臥底」是一款非常受歡迎的聚會遊戲，不論是朋友聚會、公司破冰、宿舍聊天，甚至情侶之間都很適合玩。 也因此，很多人會搜尋：「誰是臥底怎麼玩？」、「誰是臥底規則是什麼？」、「誰是臥底一定要用 App 嗎？」 如果你也是第一次接觸，或想找一個最省事、最好上手的玩法整理，這篇就是為你準備的。 這篇文章會一次帶你了解： 誰是臥底是一款以「描述」與「推理」為核心的多人遊戲。 每位玩家會拿到一個詞語，其中 只有少數人（臥底）拿到不同但相近的詞，大家並不知道彼此的詞，只能透過輪流發言來判斷誰是臥底。 這款遊戲受歡迎的原因很簡單： 也因此，「誰是臥底怎麼玩」成了許多人聚會前最常搜尋的關鍵字之一。 只要理解這個流程，其實誰是臥底並不難玩，重點在於&hellip;",
             "author": {
@@ -24,8 +24,8 @@
             "date_modified": "2026-01-28T23:16:42+08:00"
         },
         {
-            "id": "https://sk5s.cyou/2026-who-is-spy-android/",
-            "url": "https://sk5s.cyou/2026-who-is-spy-android/",
+            "id": "https://twapp.sk5s.com/2026-who-is-spy-android/",
+            "url": "https://twapp.sk5s.com/2026-who-is-spy-android/",
             "title": "誰是臥底 Android 可以玩嗎？玩法整理＋好用的 Android 誰是臥底 App",
             "summary": "很多 Android 用戶在找聚會遊戲時，第一個問題常常是： 「誰是臥底 Android 有好用的版本嗎？」 其實現在 用 Android 手機玩誰是臥底非常方便，而且只要選對 App，整個遊戲流程會順很多。 這篇文章會幫你整理：&hellip;",
             "author": {
@@ -38,8 +38,8 @@
             "date_modified": "2026-01-29T08:58:55+08:00"
         },
         {
-            "id": "https://sk5s.cyou/2026-who-is-spy-ios/",
-            "url": "https://sk5s.cyou/2026-who-is-spy-ios/",
+            "id": "https://twapp.sk5s.com/2026-who-is-spy-ios/",
+            "url": "https://twapp.sk5s.com/2026-who-is-spy-ios/",
             "title": "誰是臥底 iOS 怎麼玩？完整玩法介紹＋最好用的 iPhone 誰是臥底 App",
             "summary": "如果你是 iPhone 使用者，正在找一款適合朋友聚會、派對或破冰時玩的遊戲，那你一定看過「誰是臥底」。 很多人也會直接搜尋：「誰是臥底 iOS 可以玩嗎？」、「誰是臥底 iPhone 有 App 嗎？」 答案是肯定的，而且 在&hellip;",
             "author": {
@@ -52,11 +52,11 @@
             "date_modified": "2026-01-29T08:58:45+08:00"
         },
         {
-            "id": "https://sk5s.cyou/answersai-tw-2/",
-            "url": "https://sk5s.cyou/answersai-tw-2/",
+            "id": "https://twapp.sk5s.com/answersai-tw-2/",
+            "url": "https://twapp.sk5s.com/answersai-tw-2/",
             "title": "《解惑之書AI》：讓 AI 給你一點方向，當人生卡住時的智慧之眼",
             "summary": "每個人心中都有些沒人能替你解答的問題。 該不該換工作？ 這段感情還要繼續嗎？ 我現在做的選擇，是不是走在正確的路上？ 還是，只是想找個聲音安慰自己：「沒關係，你會好起來的。」 現代生活中，我們習慣快速找答案，Google一下、問朋友、刷社群。 但面對真正的內心疑問，卻常常越找越亂。這時候，你需要的，不是一個正確答案，而是一段讓你「靜下來」思考的語言。 《解惑之書AI》是一款結合 AI 與心靈探索的小遊戲。 它的核心很簡單： 📌默念你心中的問題，然後點擊&hellip;",
-            "image": "https://sk5s.cyou/media/posts/16/answersai-tw-2.jpg",
+            "image": "https://twapp.sk5s.com/media/posts/16/answersai-tw-2.jpg",
             "author": {
                 "name": "sk5s"
             },
@@ -67,11 +67,11 @@
             "date_modified": "2025-06-23T15:23:08+08:00"
         },
         {
-            "id": "https://sk5s.cyou/answersai-tw/",
-            "url": "https://sk5s.cyou/answersai-tw/",
+            "id": "https://twapp.sk5s.com/answersai-tw/",
+            "url": "https://twapp.sk5s.com/answersai-tw/",
             "title": "安卓免費 | 答案之書 App 大比較：探索你的靈感與答案",
             "summary": "當現代人面對選擇或困惑時，有時會尋求一些輕鬆有趣的方式來幫助自己釐清想法。答案之書 App 是一種結合隨機性與趣味性的小遊戲，透過簡單的操作提供靈感或建議。今天，我們要來看看Android應用商店上幾款熱門的答案之書 App（繁體中文的），看看它們各自有什麼特色、優缺點以及適合什麼樣的使用者吧！ Google Play 連結：https://play.google.com/store/apps/details?id=cyou.sk5s.app.answersai 解惑之書AI雖然名字有個AI，但是其實和其他的App用起來都類似： 多樣化的答案設計：內建許多答案，包含正向或是啟發性的內容，讓每次解答都充滿新鮮感。 操作方式：用戶只需要按一下螢幕上的「解惑之書」，便可隨機獲得答案。操作流暢且界面設計簡潔，抽到籤之後還可以進一步了解並分享，相較於沒有多餘的廣告干擾。 優點：設計簡單清爽，答案多樣並提供進一步說明，增加了互動性。 缺點：目前不支援其他算命類型的功能，也沒有針對使用者的問題做進一步的解惑。&hellip;",
-            "image": "https://sk5s.cyou/media/posts/15/answersai-tw.jpg",
+            "image": "https://twapp.sk5s.com/media/posts/15/answersai-tw.jpg",
             "author": {
                 "name": "sk5s"
             },
@@ -82,11 +82,11 @@
             "date_modified": "2025-06-23T15:22:34+08:00"
         },
         {
-            "id": "https://sk5s.cyou/charadesgo-tw/",
-            "url": "https://sk5s.cyou/charadesgo-tw/",
+            "id": "https://twapp.sk5s.com/charadesgo-tw/",
+            "url": "https://twapp.sk5s.com/charadesgo-tw/",
             "title": "多人聚會、破冰首選！「比手畫腳 App」免想題目還能玩你畫我猜Android、iOS都能玩？",
             "summary": "當你和朋友聚會吃飯、參加學校社團破冰活動，或是考完大考想要和同學一起來玩個好玩的小遊戲時，有一個很適合以上這些情況的遊戲就是「比手畫腳」。遊戲規則非常簡單、容易理解，只要有題目和玩家就可以隨時開始玩，這幾個特點使它成為聚會和派對的最佳選擇。不論男女老少都可以參與，真的是簡單又好玩。 如果你正在尋找一個適合各種場合的小遊戲，「比手畫腳」絕對是你的不二選擇，如果大家想要玩的時候，卻沒有題目得要自己出題嗎？這時候你可以使用方便的手機App，無論是朋友聚會、學校社團破冰，還是考完大考後的放鬆時刻，使用「比手畫腳App」不僅可以快速的開始比手畫腳遊戲，還可以全部的人一起參與，不用選人負責出題目，為你的生活增添更多樂趣。 軟體名稱：Charades Go 比手畫腳 軟體語言：繁體中文、英文 官方網站：Charades Go 比手畫腳 - sk5s Games&hellip;",
-            "image": "https://sk5s.cyou/media/posts/14/charadesgo-features-zh.jpg",
+            "image": "https://twapp.sk5s.com/media/posts/14/charadesgo-features-zh.jpg",
             "author": {
                 "name": "sk5s"
             },
@@ -97,11 +97,11 @@
             "date_modified": "2026-01-29T13:50:56+08:00"
         },
         {
-            "id": "https://sk5s.cyou/where-is-spy-tw/",
-            "url": "https://sk5s.cyou/where-is-spy-tw/",
+            "id": "https://twapp.sk5s.com/where-is-spy-tw/",
+            "url": "https://twapp.sk5s.com/where-is-spy-tw/",
             "title": "誰是臥底 App | 免想題目、多人聚會必玩！Android、iOS都能玩-找出臥底",
             "summary": "和朋友聚會吃飯、學校社團破冰，或是考完大考，想要和同學一起來玩個好玩的小遊戲嗎？一個適合以上這些情況的遊戲應有幾個特點，除了遊戲規則要簡單、容易理解外，最好是不用準備任何設備就可以隨時開始玩。 「誰是臥底」就是個適合聚會、派對等場景大家一起同樂的遊戲，只要有題目和玩家就可以開始玩，而且不論老少都可以一參與，真的是簡單又好玩。 軟體名稱：找出臥底 軟體語言：繁體中文 官方網站：找出臥底 - sk5s Games 軟體性質：免費，提供訂閱去廣告 網路需求：無網路也可使用離線題庫 Android下載連結 | iOS下載連結 找出臥底App裡面提供多樣且最新的誰是臥底題目，讓你不用自己想題目，更能沉浸在遊戲中。不同於其他現有的誰是臥底App，找出臥底是一款全新設計的手機App，設計理念以使用者出發，不需要繁瑣的設定或是註冊帳號就可以直接開始玩。找出臥底的題庫經過精選，也因為有玩家的支持為找出臥底提供題目，讓題目可以不斷的透過網路分享給所有玩家。&hellip;",
-            "image": "https://sk5s.cyou/media/posts/13/wis-tw.jpg",
+            "image": "https://twapp.sk5s.com/media/posts/13/wis-tw.jpg",
             "author": {
                 "name": "sk5s"
             },
@@ -112,11 +112,11 @@
             "date_modified": "2026-01-29T13:50:31+08:00"
         },
         {
-            "id": "https://sk5s.cyou/countdate-tw/",
-            "url": "https://sk5s.cyou/countdate-tw/",
+            "id": "https://twapp.sk5s.com/countdate-tw/",
+            "url": "https://twapp.sk5s.com/countdate-tw/",
             "title": "Countdate 擁有乾淨界面無廣告的倒數日 App",
             "summary": "在忙碌的生活中，我們經常會忘記一些重要的日子或事件。有時候，我們需要一個工具來提醒我們這些重要的事情。這就是今天要介紹的倒數日 App - Countdate 可以幫助你的地方。 Countdate 是一個開源的 Android 應用程式，能幫你追蹤重要的日期。你只要輸入日期，就可以看到距離該日期還剩多少天或已經過了幾天。這是一個方便的工具，可以倒計時或正數任何你關心的事件，例如特殊經驗、截止日期或紀念日等。Countdate 介面簡單，功能實用，適合任何人使用。它在 Google Play&hellip;",
-            "image": "https://sk5s.cyou/media/posts/11/upwork-portfolio-countdate.png",
+            "image": "https://twapp.sk5s.com/media/posts/11/upwork-portfolio-countdate.png",
             "author": {
                 "name": "sk5s"
             },
@@ -127,11 +127,11 @@
             "date_modified": "2026-01-06T11:58:40+08:00"
         },
         {
-            "id": "https://sk5s.cyou/countdate/",
-            "url": "https://sk5s.cyou/countdate/",
+            "id": "https://twapp.sk5s.com/countdate/",
+            "url": "https://twapp.sk5s.com/countdate/",
             "title": "Countdate",
             "summary": "Website Github Date Countdown: Know How Many Days Left To a Specific&hellip;",
-            "image": "https://sk5s.cyou/media/posts/7/upwork-portfolio-countdate.png",
+            "image": "https://twapp.sk5s.com/media/posts/7/upwork-portfolio-countdate.png",
             "author": {
                 "name": "sk5s"
             },
@@ -142,11 +142,11 @@
             "date_modified": "2026-01-06T11:58:08+08:00"
         },
         {
-            "id": "https://sk5s.cyou/alsoweather-project/",
-            "url": "https://sk5s.cyou/alsoweather-project/",
+            "id": "https://twapp.sk5s.com/alsoweather-project/",
+            "url": "https://twapp.sk5s.com/alsoweather-project/",
             "title": "alsoweather",
             "summary": "Github 簡易天氣app，有mobile、desktop版本。最大溫度折線圖、最小溫度折線圖、地區記憶，chart.js，改善時間顯示",
-            "image": "https://sk5s.cyou/media/posts/6/alsoweather.png",
+            "image": "https://twapp.sk5s.com/media/posts/6/alsoweather.png",
             "author": {
                 "name": "sk5s"
             },
