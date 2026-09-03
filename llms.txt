@@ -1,0 +1,35 @@
+# sk5s project
+
+sk5s 團隊來自臺灣，自2022年開始專注於創新的手機應用程式開發，致力於打造富有互動性的體驗。
+
+> sk5s project 網站彙整 sk5s 團隊開發的各項創意小工具與應用程式的最新動態與介紹，包含倒數日 App「Countdate」、聚會遊戲「找出臥底」「比手畫腳 Charades Go」等 iOS/Android 雙平台上架的作品的介紹文章與專案頁面。
+
+網站以繁體中文內容為主，部分導覽與描述為英文。
+
+## 介紹文章
+
+- [誰是臥底 網頁版推薦](https://twapp.sk5s.com/2026-where-is-spy-web/): 免想題目、免安裝，開瀏覽器就能玩的「誰是臥底」網頁版介紹
+- [誰是臥底怎麼玩？](https://twapp.sk5s.com/2026-who-is-spy-how/): 完整玩法規則、題目說明與手機 App 懶人包
+- [誰是臥底 Android 可以玩嗎？](https://twapp.sk5s.com/2026-who-is-spy-android/): Android 平台玩法整理與推薦 App
+- [誰是臥底 iOS 怎麼玩？](https://twapp.sk5s.com/2026-who-is-spy-ios/): iPhone 上的完整玩法介紹與推薦 App
+- [解惑之書 AI](https://twapp.sk5s.com/answersai-tw-2/): 讓 AI 給你一點方向的答案之書工具介紹
+- [安卓答案之書 App 大比較](https://twapp.sk5s.com/answersai-tw/): 免費答案之書 App 比較與推薦
+- [Charades Go 比手畫腳](https://twapp.sk5s.com/charadesgo-tw/): 多人聚會、破冰首選的比手畫腳 App 介紹，Android、iOS 皆可玩
+- [誰是臥底 App](https://twapp.sk5s.com/where-is-spy-tw/): 免想題目、多人聚會必玩的找出臥底 App 介紹
+- [Countdate 介紹](https://twapp.sk5s.com/countdate-tw/): 乾淨介面無廣告的倒數日 App 詳細介紹
+
+## Pages
+
+- [About sk5s](https://sk5s.com/about/): sk5s 團隊簡介，專注於開發便利生活的小工具與應用程式
+- [Privacy Policy](https://twapp.sk5s.com/privacy/): 隱私權政策
+
+## Related Sites
+
+- [sk5s.com](https://sk5s.com/): sk5s 官方主站，彙整旗下所有 App 與產品
+- [Wowcode](https://wowcode.sk5s.com/): sk5s 團隊的技術／開發部落格
+- [sk5s Games](https://games.sk5s.com/): sk5s 遊戲類作品集合，包含誰是臥底、Charades Go、解惑之書 AI 等
+- [Countdate](https://countdate.sk5s.com/): 倒數日 App 的獨立網站
+
+## Optional
+
+- [sk5s GitHub](https://github.com/sk5s): sk5s 團隊的原始碼與開放原始碼專案
