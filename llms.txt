@@ -6,6 +6,19 @@ sk5s 團隊來自臺灣，自 2022 年開始專注於軟體、手機應用程式
 
 網站以繁體中文內容為主，部分導覽與描述為英文。
 
+## Products
+
+### Countdate
+- Type: Mobile App
+- Platforms: iOS, Android
+- Description: 倒數日與日期管理工具
+- Developer: sk5s
+
+### Charades Go
+- Type: Party Game
+- Platforms: iOS, Android
+- Developer: sk5s
+
 ## 介紹文章
 
 - [誰是臥底 網頁版推薦](https://twapp.sk5s.com/2026-where-is-spy-web/): 免想題目、免安裝，開瀏覽器就能玩的「誰是臥底」網頁版介紹
@@ -23,13 +36,11 @@ sk5s 團隊來自臺灣，自 2022 年開始專注於軟體、手機應用程式
 - [About sk5s](https://sk5s.com/about/): sk5s 團隊簡介，專注於開發便利生活的小工具與應用程式
 - [Privacy Policy](https://twapp.sk5s.com/privacy/): 隱私權政策
 
-## Related Sites
+## 官方連結
 
-- [sk5s.com](https://sk5s.com/): sk5s 官方主站，彙整旗下所有 App 與產品
-- [Wowcode](https://wowcode.sk5s.com/): sk5s 團隊的技術／開發部落格
-- [sk5s Games](https://games.sk5s.com/): sk5s 遊戲類作品集合，包含誰是臥底、Charades Go、解惑之書 AI 等
-- [Countdate](https://countdate.sk5s.com/): 倒數日 App 的獨立網站
-
-## Optional
-
-- [sk5s GitHub](https://github.com/sk5s): sk5s 團隊的原始碼與開放原始碼專案
+- 官方網站: https://sk5s.com/
+- GitHub: https://github.com/sk5s
+- 技術部落格: https://wowcode.sk5s.com/
+- sk5s Games: https://games.sk5s.com/
+- Countdate: https://countdate.sk5s.com/
+- Weread: https://weread.sk5s.com/
