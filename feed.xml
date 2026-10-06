@@ -3,12 +3,29 @@
     <title>sk5s Apps 實驗室</title>
     <link href="https://twapp.sk5s.com/feed.xml" rel="self" />
     <link href="https://twapp.sk5s.com" />
-    <updated>2026-10-05T19:49:24+08:00</updated>
+    <updated>2026-10-06T13:31:44+08:00</updated>
     <author>
         <name>sk5s</name>
     </author>
     <id>https://twapp.sk5s.com</id>
 
+    <entry>
+        <title>有顧到 CareTogether 與 CareTogether.tw 怎麼選？兩款家庭照護 App 的功能與使用情境比較</title>
+        <author>
+            <name>sk5s</name>
+        </author>
+        <link href="https://twapp.sk5s.com/caretogether-app-comparison/"/>
+        <id>https://twapp.sk5s.com/caretogether-app-comparison/</id>
+            <category term="介紹文章"/>
+
+        <updated>2026-10-06T13:29:00+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    同樣是家庭照護 App，功能設計不一定相同。 有些 App 的重點是讓家人快速知道「今天的照護狀況如何」；有些 App 則著重在用藥、回診和照顧者與被照顧者之間的互動。App 名稱相近，使用者可能會以為它們是同一個產品，而且他們都同時支援 Android、iOS 安裝，但實際上，有顧到 CareTogether 與&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>誰是臥底 網頁版推薦｜免想題目、免安裝 開瀏覽器就能玩找出臥底</title>
         <author>
@@ -176,25 +193,6 @@
                 <![CDATA[
                         <img src="https://twapp.sk5s.com/media/posts/11/upwork-portfolio-countdate.png" alt="Countdate主題圖片" />
                     在忙碌的生活中，我們經常會忘記一些重要的日子或事件。有時候，我們需要一個工具來提醒我們這些重要的事情。這就是今天要介紹的倒數日 App - Countdate 可以幫助你的地方。 Countdate 是一個開源的 Android、iOS 應用程式，能幫你追蹤重要的日期。你只要輸入日期，就可以看到距離該日期還剩多少天或已經過了幾天。這是一個方便的工具，可以倒計時或正數任何你關心的事件，例如特殊經驗、截止日期或紀念日等。Countdate 介面簡單，功能實用，適合任何人使用。它在 Google Play&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Countdate</title>
-        <author>
-            <name>sk5s</name>
-        </author>
-        <link href="https://twapp.sk5s.com/countdate/"/>
-        <id>https://twapp.sk5s.com/countdate/</id>
-        <media:content url="https://twapp.sk5s.com/media/posts/7/upwork-portfolio-countdate.png" medium="image" />
-            <category term="專案"/>
-
-        <updated>2024-01-17T18:42:43+08:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://twapp.sk5s.com/media/posts/7/upwork-portfolio-countdate.png" alt="" />
-                    Website Github Date Countdown: Know How Many Days Left To a Specific&hellip;
                 ]]>
             </summary>
         <content></content>

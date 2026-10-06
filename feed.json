@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://twapp.sk5s.com/caretogether-app-comparison/",
+            "url": "https://twapp.sk5s.com/caretogether-app-comparison/",
+            "title": "有顧到 CareTogether 與 CareTogether.tw 怎麼選？兩款家庭照護 App 的功能與使用情境比較",
+            "summary": "同樣是家庭照護 App，功能設計不一定相同。 有些 App 的重點是讓家人快速知道「今天的照護狀況如何」；有些 App 則著重在用藥、回診和照顧者與被照顧者之間的互動。App 名稱相近，使用者可能會以為它們是同一個產品，而且他們都同時支援 Android、iOS 安裝，但實際上，有顧到 CareTogether 與&hellip;",
+            "author": {
+                "name": "sk5s"
+            },
+            "tags": [
+                   "介紹文章"
+            ],
+            "date_published": "2026-10-06T13:29:00+08:00",
+            "date_modified": "2026-10-06T13:31:44+08:00"
+        },
+        {
             "id": "https://twapp.sk5s.com/2026-where-is-spy-web/",
             "url": "https://twapp.sk5s.com/2026-where-is-spy-web/",
             "title": "誰是臥底 網頁版推薦｜免想題目、免安裝 開瀏覽器就能玩找出臥底",
@@ -143,21 +157,6 @@
             ],
             "date_published": "2024-01-26T21:01:32+08:00",
             "date_modified": "2026-09-01T23:08:39+08:00"
-        },
-        {
-            "id": "https://twapp.sk5s.com/countdate/",
-            "url": "https://twapp.sk5s.com/countdate/",
-            "title": "Countdate",
-            "summary": "Website Github Date Countdown: Know How Many Days Left To a Specific&hellip;",
-            "image": "https://twapp.sk5s.com/media/posts/7/upwork-portfolio-countdate.png",
-            "author": {
-                "name": "sk5s"
-            },
-            "tags": [
-                   "專案"
-            ],
-            "date_published": "2024-01-17T18:42:43+08:00",
-            "date_modified": "2026-01-06T11:58:08+08:00"
         }
     ]
 }
